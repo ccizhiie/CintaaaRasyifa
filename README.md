@@ -19,7 +19,6 @@
 
 ![VueJs](https://img.shields.io/badge/-VueJs-2f1a47?style=flat&logo=Vue.js)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-2f1a47?style=flat&logo=Vite)&nbsp;
-![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=React)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-2f1a47?style=flat&logo=npm)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
 ![Composer](https://img.shields.io/badge/-Composer-2f1a47?style=flat&logo=Composer)&nbsp;
