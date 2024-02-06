@@ -5,12 +5,12 @@
 - ⚡ Excited to create projects with VueJs and Laravel
 - 📫 You can reach me at my instagram [@cintaa_syifaa](https://instagram.com/cintaa_syifaa)
 
-[![My GitHub stats](https://github.com/CintaaaRasyifa/CintaaaRasyifa)
+[![My GitHub stats](https://github.com/cintaasyifa/cintaasyifa)
 
 ---
 
 ## Here is tech stacks I know and use 🛠
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CintaaaRasyifa&langs_count=10" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintaasyifa&langs_count=10" align="right">
 
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
